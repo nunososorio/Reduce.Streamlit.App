@@ -8,7 +8,7 @@ Linear methods like PCA assume that the data lies along a linear subspace, which
 
 Moreover, all dimensionality reduction methods involve some loss of information. This is an inherent trade-off: we simplify our data to make it easier to work with, but in doing so, we inevitably lose some details. It's crucial to keep this in mind when interpreting the results of these methods.
 
-This application should therefore be used as a starting point for discussions on these topics. It's a tool for learning and exploration, not a definitive answer. Always remember to consider the underlying assumptions and limitations of the methods you're using, and to validate your findings with other types of analyses whenever possible. 
+This application should therefore be used as a starting point for discussions on these topics. It's a tool for learning and exploration, not a definitive answer.
 
 ## Description
 This application provides an interactive visualization of dimensionality reduction techniques applied to a simulated 3D dataset. The dataset could represent, for example, the expression of three different genes, with each dot representing one of 1000 cells. 
