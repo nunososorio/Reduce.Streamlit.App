@@ -1,0 +1,8 @@
+streamlit==1.23.0
+numpy==1.24.3
+plotly==5.9.0
+scanpy==1.9.3
+loompy==3.0.7
+numba==0.57.0 
+pandas
+umap-learn
