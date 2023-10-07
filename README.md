@@ -28,6 +28,7 @@ To use this application, simply navigate to the live demo link provided above an
 
 ## How to cite
 If you find this application useful in your research, please consider citing:
+
 "Garma, L. D., & Osório, N. S. (Submitted). Demystifying Dimensionality Reduction Techniques in the 'Omics' Era: A Practical Approach for Biological Science Students.
 *Corresponding authors: leonardo.garma@cnio.eski.se, nosorio@med.uminho.pt
 
