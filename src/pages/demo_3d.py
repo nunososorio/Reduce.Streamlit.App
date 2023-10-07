@@ -86,5 +86,3 @@ def write():
     Each time you reload the page, different lines are generated, allowing you to explore the behavior of these dimensionality reduction methods.
     Please note that the plots take a few seconds to load due to the computational complexity of the dimensionality reduction methods.''')
     st.markdown(" © 2023 | Nuno S. Osório - Email: nosorio@med.uminho.pt | Leonardo Garma - Email: leonardo.garma@gmail.com")
-    st.markdown('https://github.com/nunososorio/Reduce.Streamlit.App')
-
