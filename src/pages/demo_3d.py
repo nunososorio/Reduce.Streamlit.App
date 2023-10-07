@@ -15,7 +15,7 @@ def write():
     # Title and subtitle
     st.title("Reduce.Streamlit.App")
     st.markdown('''
-    This application provides an interactive visualization of dimensionality reduction techniques applied to a dataset with three dimensions. The dataset could represent, for example, the expression of three different genes, with each dot representing one of 1000 cells.
+    This part of the application provides an interactive visualization of dimensionality reduction techniques applied to a dataset with three dimensions. The dataset could represent, for example, the expression of three different genes, with each dot representing one of 1000 cells.
     The dimensionality reduction methods used in this application are PCA, t-SNE, and UMAP. PCA is a linear method, while t-SNE and UMAP are non-linear methods.
     In the visualizations, two points in the original data and in the reduced representations are connected by lines. One line is green and the other is red. These lines allow you to evaluate how well each method retains the distance between the cells. 
     ''')
@@ -85,4 +85,4 @@ def write():
     st.markdown('''You might notice that the linear method (PCA) might not retain the distance as well as the non-linear methods (t-SNE and UMAP). This limitation might be more visible in the red line than the green line. Why do you think this is the case?
     Each time you reload the page, different lines are generated, allowing you to explore the behavior of these dimensionality reduction methods.
     Please note that the plots take a few seconds to load due to the computational complexity of the dimensionality reduction methods.''')
-    st.markdown(" © 2023 | Nuno S. Osório - Email: nosorio@med.uminho.pt | Leonardo Garma - Email: leonardo.garma@gmail.com")
+    st.markdown(" © 2023 Nuno S. Osório, Leonardo D. Garma - Email: nosorio@med.uminho.pt | Leonardo Garma - Email: leonardo.garma@cnio.eski.se")
