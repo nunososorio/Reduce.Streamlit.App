@@ -16,7 +16,7 @@ random.seed(42)
 def write():
     st.markdown('''
     # Principal Component Analys on 2D data
-    This demo lets you visualize the principal components obtained from 2D data. The data is a vector X of numbers between 1 and 99, and a vector Y equal to X plus some noise.
+    This part of the application lets you visualize the principal components obtained from 2D data. The data is a vector X of numbers between 1 and 99, and a vector Y equal to X plus some noise.
     - Use the slider below to change the level of noise!
     ''')
     # Display a loading warning
