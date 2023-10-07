@@ -30,16 +30,14 @@ To use this application, simply navigate to the live demo link provided above an
 
 If you find this application useful in your research, please consider citing:
 
-function test() {
-  console.log("Garma, L. D., & Osório, N. S. (Submitted). Demystifying Dimensionality Reduction Techniques in the 'Omics' Era: A Practical Approach for Biological Science Students.
+console.log("Garma, L. D., & Osório, N. S. (Submitted). Demystifying Dimensionality Reduction Techniques in the 'Omics' Era: A Practical Approach for Biological Science Students.
 
 1Breast Cancer Clinical Research Unit, Centro Nacional de Investigaciones Oncológicas – CNIO, Madrid, SpainKarolinska Institutet, Laboratory of Molecular Neurobiology, Department of Medical Biochemistry and Biophysics, Stockholm, Sweden
 
 2Life and Health Sciences Research Institute (ICVS), School of Medicine, University of Minho, Portugal and ICVS/3B’s –PT Government Associate Laboratory, Braga, Portugal
 
 *Corresponding authors: leonardo.garma@cnio.eski.se, nosorio@med.uminho.pt
-");
-}
+")
 
 ## License
 This project is licensed under the terms of the MIT license. For more information, please see the LICENSE file.
