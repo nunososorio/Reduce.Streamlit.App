@@ -117,4 +117,3 @@ def write():
             st.plotly_chart(fig2, use_container_width=True)
     
     st.markdown(" © 2023 | Nuno S. Osório - Email: nosorio@med.uminho.pt | Leonardo Garma - Email: leonardo.garma@gmail.com")
-    st.markdown('https://github.com/nunososorio/Reduce.Streamlit.App')
