@@ -29,8 +29,22 @@ To use this application, simply navigate to the live demo link provided above an
 ## How to cite
 If you find this application useful in your research, please consider citing:
 
-"Garma, L. D., & Osório, N. S. (Submitted). Demystifying Dimensionality Reduction Techniques in the 'Omics' Era: A Practical Approach for Biological Science Students.
-*Corresponding authors: leonardo.garma@cnio.eski.se, nosorio@med.uminho.pt
+Garma, LD, Osório, NS. Demystifying dimensionality reduction techniques in the ‘omics’ era: A practical approach for biological science students. Biochem Mol Biol Educ. 2023. https://doi.org/10.1002/bmb.21800
+
+BibTex:
+```@article{https://doi.org/10.1002/bmb.21800,
+author = {Garma, Leonardo D. and Osório, Nuno S.},
+title = {Demystifying dimensionality reduction techniques in the ‘omics’ era: A practical approach for biological science students},
+journal = {Biochemistry and Molecular Biology Education},
+volume = {n/a},
+number = {n/a},
+pages = {},
+keywords = {data science, dimensionality reduction, general education for science majors, Jupyter, original models for teaching and learning, PCA, postgraduate education, Python, teaching and learning techniques methods and approaches, t-SNE, UMAP},
+doi = {https://doi.org/10.1002/bmb.21800},
+url = {https://iubmb.onlinelibrary.wiley.com/doi/abs/10.1002/bmb.21800},
+eprint = {https://iubmb.onlinelibrary.wiley.com/doi/pdf/10.1002/bmb.21800},
+abstract = {Abstract Dimensionality reduction techniques are essential in analyzing large ‘omics’ datasets in biochemistry and molecular biology. Principal component analysis, t-distributed stochastic neighbor embedding, and uniform manifold approximation and projection are commonly used for data visualization. However, these methods can be challenging for students without a strong mathematical background. In this study, intuitive examples were created using COVID-19 data to help students understand the core concepts behind these techniques. In a 4-h practical session, we used these examples to demonstrate dimensionality reduction techniques to 15 postgraduate students from biomedical backgrounds. Using Python and Jupyter notebooks, our goal was to demystify these methods, typically treated as “black boxes”, and empower students to generate and interpret their own results. To assess the impact of our approach, we conducted an anonymous survey. The majority of the students agreed that using computers enriched their learning experience (67\%) and that Jupyter notebooks were a valuable part of the class (66\%). Additionally, 60\% of the students reported increased interest in Python, and 40\% gained both interest and a better understanding of dimensionality reduction methods. Despite the short duration of the course, 40\% of the students reported acquiring research skills necessary in the field. While further analysis of the learning impacts of this approach is needed, we believe that sharing the examples we generated can provide valuable resources for others to use in interactive teaching environments. These examples highlight advantages and limitations of the major dimensionality reduction methods used in modern bioinformatics analysis in an easy-to-understand way.}
+}```
 
 ## License
 This project is licensed under the terms of the MIT license. For more information, please see the LICENSE file.
