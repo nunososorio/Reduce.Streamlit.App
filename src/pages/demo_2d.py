@@ -116,4 +116,4 @@ def write():
             fig2.update_layout(width=800)
             st.plotly_chart(fig2, use_container_width=True)
     
-    st.markdown(" © 2023 Nuno S. Osório, Leonardo D. Garma - Email: nosorio@med.uminho.pt | Leonardo Garma - Email: leonardo.garma@cnio.eski.se")
+    st.markdown(" © 2023 Nuno S. Osório, Leonardo D. Garma - Email: nosorio@med.uminho.pt | Leonardo Garma - Email: leonardo.garma@cnio.es")
